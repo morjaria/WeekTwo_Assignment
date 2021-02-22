@@ -1,3 +1,3 @@
 # WEEK TWO ASSIGNMENT
-[PyBank](./PyBank)
-[PyRamen](./PyRamen)
+* [PyBank](./PyBank)
+* [PyRamen](./PyRamen)
