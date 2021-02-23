@@ -36,7 +36,7 @@ Task to create a Python script for analysing the financial records of provided c
 
 - Project Folder - [PyBank](./PyBank)
 - Data files provided - [DataFolder](./PyBank/data_files)
-- Output text file folder  - [OutputFolder](./PyBank/data_files)
+- Output text file folder  - [OutputFolder](./PyBank/output_files)
 - Python code - [Python Script](./PyBank/main.ipynb)
 
 ---
@@ -89,7 +89,7 @@ Analyse how well the business did on a per-product basis (over several choices o
 ### Output
 - Project Folder - [PyRamen](./PyRamen)
 - Data files provided - [DataFolder](./PyRamen/data_files)
-- Output text file folder  - [OutputFolder](./PyRamen/data_files)
+- Output text file folder  - [OutputFolder](./PyRamen/output_files/)
 - Python code - [Python Script](./PyRamen/main.ipynb)
 
 ---
